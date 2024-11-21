@@ -48,5 +48,5 @@ A RESTful API built with Spring Boot to manage the exam enrollment process for a
 ### **Steps to Run**
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/<your-username>/exam-registration-service.git
+   git clone https://github.com/manik2307/exam-registration-service.git
    cd exam-registration-service
